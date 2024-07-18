@@ -1,37 +1,26 @@
-# Hola, soy [Tu Nombre] 👨‍💻👩‍💻
-
-![Profile Banner](https://example.com/tu-imagen-de-banner.jpg)
+# Hola, soy Jairo Alonso 👨‍💻👩‍💻
 
 ### Sobre Mí
 
-Ingeniero/a de software con una sólida experiencia en desarrollo y arquitectura de sistemas. Apasionado/a por la resolución de problemas complejos y la innovación tecnológica.
+Ingeniero industrial con experiencia en logistica de almacenamiento. Estoy aprendiendo y adentrandome en el mundo del análisis de datos.
 
-- 🔭 Actualmente trabajando en: [Empresa/Proyecto Actual]
-- 🌱 Aprendiendo: [Tecnología o Habilidad]
-- 👯 Buscando colaborar en: [Tipo de Proyecto]
-- 📫 Cómo contactarme: [Tu Email]
-- 🌐 Sitio web: [Tu Sitio Web]
+- 🔭 Actualmente trabajando en: RH ELECTRONICS PROYECTOS Y TECNOLOGIA(Jefe de bodega).
+- 🌱 Aprendiendo: MySQL.
+- 👯 Buscando colaborar en: Bases de datos.
 
 ### Habilidades
 
-- **Lenguajes:** C++, Rust, Python
-- **Frameworks:** TensorFlow, PyTorch, Dask
-- **Herramientas:** Docker, Kubernetes, Terraform
+- **Lenguajes:** Python, SQL.
+- **Herramientas:** Power Bi, Excel.
 
-### Proyectos Destacados
+### Buscando
+Estoy en busqueda de oportunidades para desarrollarme como analista de datos junior.
 
-1. **[Nombre del Proyecto]**
-   - Descripción técnica detallada.
-   - Tecnologías utilizadas: [Tecnologías]
-
-2. **[Nombre del Proyecto]**
-   - Descripción técnica detallada.
-   - Tecnologías utilizadas: [Tecnologías]
+### Dato curioso
+-🤘 Me gusta el rock español e ingles, el anime y juego LOL.
 
 ### Encuéntrame en:
 
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [GitHub](https://github.com/tu-usuario)
+-🌐 [LinkedIn](www.linkedin.com/in/jairo-alonso-galindo-díaz-4b4a3b17a)
+-🌐 [GitHub](https://github.com/JairoAGD)
 
-![Footer Image](https://example.com/tu-imagen-de-footer.jpg)
